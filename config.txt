@@ -1,6 +1,6 @@
-token=NTIzMTg5MjczNjU5MTc5MDUy.DvV56Q.wc0w0WUtlOF9_ww44GhfQrMmPKU
-owner=454457140220919818
-prefix=D
-game=#solo_for_ever.
+NTM4Njg0MjE2NjE2MTU3MTk0.Dy3Ydg.2BKXvsUg_zd98YRCEGkqyIBaft4
+owner=524870863720415242
+prefix=z
+game=Fuck My Life
 stayinchannel=true
 songinstatus=False
