@@ -1,0 +1,6 @@
+token=NTIzMTg5MjczNjU5MTc5MDUy.DvV56Q.wc0w0WUtlOF9_ww44GhfQrMmPKU
+owner=454457140220919818
+prefix=D
+game=#solo_for_ever.
+stayinchannel=true
+songinstatus=False
